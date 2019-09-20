@@ -1,4 +1,4 @@
-# HW2: Sorting and graph coloring
+# HW2: Sorting
 ## Due: 2019-09-30 (Monday)
 
 Click to [accept this assignment](https://classroom.github.com/a/d4_gpzck)
