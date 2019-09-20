@@ -118,6 +118,10 @@ parallelism to expose.  Choose at least two figure types to convey
 your results in a way that enables a decision and discuss your
 conclusions.
 
+You may also consider other algorithms, including open source
+implementations you find online.  Please report interesting results in
+[this issue](https://github.com/cucs-hpsc/hpsc-hw2/issues/1).
+
 ### Part 4: Reproducibility
 
 Would another class member be able to read your report and reproduce your results?
