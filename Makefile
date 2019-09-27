@@ -1,6 +1,7 @@
 CC = gcc
 CFLAGS ?= -O3 -march=native -fopenmp -Wall
 CFLAGS += -MMD -MP # generates *.d dependency files
+LDFLAGS += $(CFLAGS)
 
 sources.c = sort.c quicksort.c radix.c
 
